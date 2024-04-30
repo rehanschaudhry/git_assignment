@@ -26,5 +26,6 @@ git diff is a command in Git that displays the differences between changes made 
 What is the main branch?
 The default branch is also the initial branch that Git checks out locally when someone clones the repository.
 
+Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
 
-h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
+Pushing changes directly to the main branch isn't always the best practice. It's generally recommended to follow a workflow that involves creating a feature branch, making changes, pushing them to that branch, and then creating a pull request to merge those changes into the main branch. This allows for code review, discussion, and potential adjustments before merging into the main branch, ensuring that the main branch remains stable and free of errors.
