@@ -10,14 +10,14 @@ Give me a step by step guide on how to add someone to your repository.
   Ask for the username of the person you're inviting as a collaborator.
   Navigate to the main page of the repository.
   Under your repository name, click  Settings.
-  In the "Access" section of the sidebar, click  Collaborators.
+  In the Access section of the sidebar, click  Collaborators.
   Click Add people.
-  In the search field, start typing the name of person you want to invite, then click a name in the list of matches.
+  In the search field, look for the person who you want to invite, then click a name in the list of matches.
   Click Add name to repository.
   The user will receive an email inviting them to the repository. Once they accept your invitation, they will have collaborator access to your repository.
 
 What is the difference between git and GitHub?
-Git is a distributed version control system used for tracking changes in source code locally, whereas GitHub is a web-based platform for hosting Git repositories and facilitating collaboration among developers.
+Git is a system used for tracking changes in source code locally, whereas GitHub is a web-based platform for hosting Git repositories and facilitating collaboration among developers.
 
 What does git diff do?
 git diff is a command in Git that displays the differences between changes made to files in your working directory and the staging area, or between the staging area and the repository, allowing you to see what modifications have been made to your code before committing them.
